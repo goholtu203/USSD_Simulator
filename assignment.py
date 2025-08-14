@@ -15,7 +15,7 @@ welcome_message = '''
 			|_______________________|
 
 '''
-ussd = "*555#"
+ussd = "*556#"
 account_balance=50
 enter_ussd = input()
 if enter_ussd == ussd:
